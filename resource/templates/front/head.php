@@ -1,32 +1,22 @@
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>inox - Kitchen & Interior Design Template</title>
+    <meta name="description" content="inox is a Agency, Startup and SaaS template by tempload." />
+    <meta name="keywords" content="inox, startup, saas, agency, development, html, template, tempload" />
+    <meta name="author" content="tempload" />
 
-    <title>Arki Minimal</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="assets/images/favicon/favicon.png" />
 
+    <!-- Bootstrap & Plugins CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/owl.carousel.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/owl.theme.default.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css">
 
-
-    <link rel="stylesheet" href="js/plugins/goodlayers-core/plugins/fontawesome/font-awesome.css?ver=5.7.2"
-        type="text/css" media="all" />
-    <link rel="stylesheet" href="js/plugins/goodlayers-core/plugins/fa5/fa5.css?ver=5.7.2" type="text/css"
-        media="all" />
-    <link rel="stylesheet" href="js/plugins/goodlayers-core/plugins/elegant/elegant-font.css?ver=5.7.2" type="text/css"
-        media="all" />
-    <link rel="stylesheet" href="js/plugins/goodlayers-core/plugins/ionicons/ionicons.css?ver=5.7.2" type="text/css"
-        media="all" />
-    <link rel="stylesheet" href="js/plugins/goodlayers-core/plugins/simpleline/simpleline.css?ver=5.7.2" type="text/css"
-        media="all" />
-    <link rel="stylesheet" href="js/plugins/goodlayers-core/plugins/style.css" type="text/css" media="all" />
-    <link rel="stylesheet" href="js/plugins/goodlayers-core/include/css/page-builder.css?ver=5.7.2" type="text/css"
-        media="all" />
-    <link rel="stylesheet" href="js/plugins/revslider/public/assets/css/rs6.css" type="text/css" media="all" />
-    <link rel="stylesheet" href="css/style-core.css" type="text/css" media="all" />
-    <link rel="stylesheet" href="css/arki-style-custom.css" type="text/css" media="all" />
-
-
-    <link rel="icon" href="upload/cropped-favicon-circle-32x32.png" sizes="32x32" />
-    <link rel="icon" href="upload/cropped-favicon-circle-192x192.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="upload/cropped-favicon-circle-180x180.png" />
-    <meta name="msapplication-TileImage" content="upload/cropped-favicon-circle-270x270.png" />
-
+    <!-- Custom CSS -->
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
 </head>
