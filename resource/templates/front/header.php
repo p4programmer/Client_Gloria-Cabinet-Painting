@@ -4,7 +4,7 @@
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
+                    <a href="index.php" class="logo - Gloria Cabinet Painting">
                         <img src="assets/images/logo.png" alt="Gloria Cabinet Painting" />
                     </a>
                     <!-- ***** Logo End ***** -->
@@ -12,32 +12,10 @@
 
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                        <li><a href="index.html#welcome">Home</a></li>
-                        <li class="submenu">
-                            <a href="javascript:;">Project</a>
-                            <ul>
-                                <li><a href="project-grid.html">Project Grid</a></li>
-                                <li><a href="project-list.html">Project List</a></li>
-                                <li><a href="project-single.html">Project Single</a></li>
-                            </ul>
-                        </li>
-                        <li class="submenu">
-                            <a href="javascript:;">Pages</a>
-                            <ul>
-                                <li><a href="about-me.html">About Me</a></li>
-                                <li><a href="about-us.html">About Us</a></li>
-                                <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="faq.html">FAQ's</a></li>
-                            </ul>
-                        </li>
-                        <li class="submenu">
-                            <a href="javascript:;">Blog</a>
-                            <ul>
-                                <li><a href="blog-list.html">Blog List</a></li>
-                                <li><a href="blog-single.html">Blog Single</a></li>
-                            </ul>
-                        </li>
-                        <li><a class="contact-btn" href="contact.html">Contact</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="services.php">Services</a></li>
+                        <li><a class="contact-btn" href="contact.php">Contact</a></li>
                     </ul>
                     <a class="menu-trigger">
                         <span>Menu</span>
