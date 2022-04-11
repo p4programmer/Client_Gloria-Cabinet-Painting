@@ -2,7 +2,7 @@
 	<footer>
 	    <div class="container">
 	        <div class="row">
-	            <div class="col-lg-5 col-md-12 col-sm-12">
+	            <div class="col-lg-4 col-md-12 col-sm-12">
 	                <div class="text">
 	                    <b>Gloria Cabinet Painting</b><br />
 	                    - Dreams come true with us
@@ -15,13 +15,24 @@
 	                    <li><a href="#"><i class="fa fa-github"></i></a></li>
 	                </ul>
 	            </div>
-	            <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+	            <div class="col-lg-4 col-md-4 col-sm-6 col-6">
 	                <h5>Helpful Links</h5>
 	                <ul class="footer-nav">
-	                    <li><a href="#"><i class="fa fa-angle-right"></i><span>Home</span></a></li>
-	                    <li><a href="#"><i class="fa fa-angle-right"></i><span>About Us</span></a></li>
-	                    <li><a href="#"><i class="fa fa-angle-right"></i><span>Services</span></a></li>
-	                    <li><a href="#"><i class="fa fa-angle-right"></i><span>Contact Us</span></a></li>
+	                    <div class="row">
+	                        <div class="col-lg-4">
+	                            <li><a href="index.php"><i class="fa fa-angle-right"></i><span>Home</span></a></li>
+	                            <li><a href="about.php"><i class="fa fa-angle-right"></i><span>About Us</span></a></li>
+	                            <li><a href="services.php"><i class="fa fa-angle-right"></i><span>Services</span></a></li>
+	                        </div>
+	                        <div class="col-lg-4">
+	                            <li><a href="process.php"><i class="fa fa-angle-right"></i><span>Process</span></a></li>
+	                            <li><a href="projects.php"><i class="fa fa-angle-right"></i><span>Our Projects</span></a>
+	                            </li>
+	                            <li><a href="contact.php"><i class="fa fa-angle-right"></i><span>Contact Us</span></a></li>
+	                        </div>
+	                    </div>
+
+
 	                </ul>
 	            </div>
 	            <div class="col-lg-4 col-md-6 col-sm-12">

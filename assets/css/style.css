@@ -1058,6 +1058,10 @@ blockquote .author {
   padding-bottom: 140px !important;
 }
 
+.padding-bottom-160 {
+  padding-bottom: 160px !important;
+}
+
 @media (max-width: 991px) {
 
   html,
