@@ -75,7 +75,7 @@ require_once("resource/config.php");
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="parallax-item">
                             <i class="fa fa-connectdevelop"></i>
-                            <h5 class="feature-title">INTERIOR</h5>
+                            <h5 class="feature-title">DESIGNING</h5>
                             <p>Vestibulum justo odio, auctor sed elit vitae, sollicitudin varius metus. Maecenas diam.
                             </p>
                             <a class="dark-btn" href="gallery.html">
@@ -87,7 +87,7 @@ require_once("resource/config.php");
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="parallax-item">
                             <i class="fa fa-flag-o"></i>
-                            <h5 class="feature-title">EXTERIOR</h5>
+                            <h5 class="feature-title">IMPLEMENTING</h5>
                             <p>Integer tincidunt aliquam nibh. Sed sed velit tristique, egestas lorem eu, fermentum
                                 diam.</p>
                             <a class="dark-btn" href="gallery.html">
