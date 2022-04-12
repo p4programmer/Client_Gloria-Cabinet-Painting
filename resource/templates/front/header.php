@@ -15,7 +15,7 @@
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About Us</a></li>
                         <li><a href="services.php">Services</a></li>
-                        <li><a href="Process.php">Process</a></li>
+                        <li><a href="process.php">Process</a></li>
                         <li><a href="projects.php">Our Projects</a></li>
                         <li><a class="contact-btn" href="contact.php">Contact</a></li>
                     </ul>
