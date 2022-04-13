@@ -26,7 +26,7 @@
 	                        </div>
 	                        <div class="col-lg-4">
 	                            <li><a href="process.php"><i class="fa fa-angle-right"></i><span>Process</span></a></li>
-	                            <li><a href="projects.php"><i class="fa fa-angle-right"></i><span>Our Projects</span></a>
+	                            <li><a href="projects.php"><i class="fa fa-angle-right"></i><span>Projects</span></a>
 	                            </li>
 	                            <li><a href="contact.php"><i class="fa fa-angle-right"></i><span>Contact Us</span></a></li>
 	                        </div>
