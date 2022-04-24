@@ -55,69 +55,104 @@ require_once("resource/config.php");
     <section class="half-parallax margin-top-40">
         <div class="parallax-items">
             <div class="container">
-                <div class="row">
+                <div class="row d-flex justify-content-around">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="parallax-item" style="height:90%">
-                            <i class="fas fa-bullseye"></i>
+                            <i class="fas fa-bullseye" style="color:red;"></i>
                             <h5 class="feature-title">MISSION</h5>
-                            <p> Our utmost priority is dedicated towards achieving complete customer satisfaction
-                                through our wide range of services. Moreover, we envision to accomplish this through
-                                fostering economical, societal and environmental aspects.
+                            <p>
+                                Make our customers happy through economical, societal, and environmental ways.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="parallax-item" style="height:90%">
-                            <i class="fa-regular fa-thumbs-up"></i>
+                            <i class="fa-regular fa-thumbs-up" style="color:red;"></i>
                             <h5 class="feature-title">RELIABILITY </h5>
-                            <p>We are a team of friendly and respectful employees, whose cardinal goal is to
-                                efficaciously complete the undertaken tasks within the stipulated timeframe.
+                            <p>
+                                Friendly, professional, and respectful employees with the goal of completing the job
+                                within the timeframe. Will consider the area as our own home.
                                 <br>
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="parallax-item" style="height:90%">
-                            <i class="fa-regular fa-star"></i>
+                            <i class="fa-regular fa-star" style="color:red;"></i>
                             <h5 class="feature-title">QUALITY </h5>
-                            <p>We assure that all the works completed by us will surpass the quality standards of our
-                                customers within the prescribed timeframe. We do not leave the worksite unless our
-                                customers are happy and satisfied.
-                                diam.</p>
+                            <p>
+                                Highest quality within the time frame provided. We don’t get out until our customers are
+                                happy.
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="parallax-item" style="height:90%">
-                            <i class="fa-solid fa-calendar-check"></i>
+                            <i class="fa-solid fa-calendar-check" style="color:red;"></i>
                             <h5 class="feature-title">SCHEDULE</h5>
-                            <p>Since we value everyone’s time, we are always punctual to reach the site and adhere to
-                                the project schedule.</p>
+                            <p>
+                                Always show upon time. We respect everyone’s time and stick to the project schedule
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="parallax-item" style="height:90%">
-                            <i class="fa-solid fa-hand-holding-dollar"></i>
+                            <i class="fa-solid fa-hand-holding-dollar" style="color:red;"></i>
                             <h5 class="feature-title">COST </h5>
-                            <p>We offer competitive price within the market by utilising sustainable and eco-friendly
-                                products of the highest quality.</p>
+                            <p>
+                                Competitive price within the market although using the highest eco-friendly products.
+                            </p>
                         </div>
                     </div>
-                    <!-- <div class="col-lg-4 col-md-6 col-sm-12">
-                        <div class="parallax-item" style="height:90%">
-                            <i class="fa-brands fa-pagelines"></i>
-                            <h5 class="feature-title">TIDINESS </h5>
-                            <p>We ensure that the worksite is clean by carrying out professional cleaning once the job
-                                is completed </p>
-                        </div>
-                    </div> -->
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="parallax-item" style="height:90%">
-                            <i class="fa-solid fa-recycle"></i>
-                            <h5 class="feature-title">SUSTAINABILITY </h5>
-                            <p>Our company prioritises sustainability to our mother nature by saving tons of waste and
-                                other scrap materials thereby aiding the society, economy and environment. </p>
+                            <i class="fa-brands fa-pagelines" style="color:red;"></i>
+                            <h5 class="feature-title ">TIDINESS </h5>
+                            <p>
+                                We ensure that the worksite is clean by carrying out professional cleaning once the job
+                                is completed
+                            </p>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="parallax-item" style="height:90%">
+                            <i class="fa-solid fa-recycle" style="color:red;"></i>
+                            <h5 class="feature-title">SUSTAINABILITY </h5>
+                            <p>
+                                By saving tons of waste going back to our mother nature thus mutually helping the
+                                economy, society, and the environment.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="parallax-item" style="height:90%">
+                            <i class="fa-solid fa-file-circle-check" style="color:red;"></i>
+                            <h5 class="feature-title">FREE ESTIMATES </h5>
+                            <p>
+                                We provide free estimates to clients upon request
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="parallax-item" style="height:90%">
+                            <i class="fa-solid fa-award" style="color:red;"></i>
+                            <h5 class="feature-title">LICENSE & INSURANCE</h5>
+                            <p>
+                                Being licensed and insured.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="parallax-item" style="height:90%">
+                            <i class="fa-solid fa-certificate" style="color:red;"></i>
+                            <h5 class="feature-title">WARRANTY</h5>
+                            <p>
+                                Providing 2-year warranty for the cabinet painting workmanship and 5 year no peel
+                                warranty for the paint
+                            </p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
