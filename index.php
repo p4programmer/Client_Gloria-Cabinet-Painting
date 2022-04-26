@@ -109,10 +109,11 @@ require_once("resource/config.php");
                     <div class="col-lg-12">
                         <div class="project-list">
                             <div class="row">
+
                                 <div class="col-lg-6 col-md-12 col-sm-12">
                                     <a href="project-single.html" class="project-list-item">
                                         <div class="img">
-                                            <img src="assets/images/photos/project/1.jpg" alt="">
+                                            <img src="assets/images/photos/project/1.png" alt="">
                                         </div>
                                         <div class="text">
                                             <h3>MODERN KITCHENS</h3>
@@ -121,90 +122,7 @@ require_once("resource/config.php");
                                         </div>
                                     </a>
                                 </div>
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <a href="project-single.html" class="project-list-item">
-                                        <div class="img">
-                                            <img src="assets/images/photos/project/2.jpg" alt="">
-                                        </div>
-                                        <div class="text">
-                                            <h3>MODERN BATHROOM</h3>
-                                            <p>Curabitur nec imperdiet elit. Ut non erat imperdiet, condi men tum turpis
-                                                nec, sceleris.</p>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <a href="project-single.html" class="project-list-item">
-                                        <div class="img">
-                                            <img src="assets/images/photos/project/3.jpg" alt="">
-                                        </div>
-                                        <div class="text">
-                                            <h3>DECORATIVE CHAIR</h3>
-                                            <p>Aliquam at eros vitae elit vulputate venenatis sed id augue. Nuncmi nisl,
-                                                pulvinar.</p>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <a href="project-single.html" class="project-list-item">
-                                        <div class="img">
-                                            <img src="assets/images/photos/project/4.jpg" alt="">
-                                        </div>
-                                        <div class="text">
-                                            <h3>ROOMS CABINETRY</h3>
-                                            <p>Nam mollis est diam, non viverra nisi porta eget. Morbi interdum in elit
-                                                et sodales.</p>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <a href="project-single.html" class="project-list-item">
-                                        <div class="img">
-                                            <img src="assets/images/photos/project/5.jpg" alt="">
-                                        </div>
-                                        <div class="text">
-                                            <h3>MODERN ROOMS</h3>
-                                            <p>Fusce at pellentesque risus. Phasellus massa odio, mattis in imperdiet
-                                                quis, rutrum in.</p>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <a href="project-single.html" class="project-list-item">
-                                        <div class="img">
-                                            <img src="assets/images/photos/project/6.jpg" alt="">
-                                        </div>
-                                        <div class="text">
-                                            <h3>MINIMAL OFFICES</h3>
-                                            <p>Proin luctus odio et purus iaculis, et porta ex molestie. Curabitur
-                                                euismod nulla enim.</p>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <a href="project-single.html" class="project-list-item">
-                                        <div class="img">
-                                            <img src="assets/images/photos/project/7.jpg" alt="">
-                                        </div>
-                                        <div class="text">
-                                            <h3>MODERN KITCHENS</h3>
-                                            <p>Cras pulvinar fermentum elit, at mollis justo eleifend quis. Vivamus
-                                                felis ipsum vole rithum.</p>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <a href="project-single.html" class="project-list-item">
-                                        <div class="img">
-                                            <img src="assets/images/photos/project/8.jpg" alt="">
-                                        </div>
-                                        <div class="text">
-                                            <h3>WORKING PLACES</h3>
-                                            <p>Vestibulum pulvinar nunc scelerisque nisl elementum porttitor. Donec
-                                                tincidunt.</p>
-                                        </div>
-                                    </a>
-                                </div>
+
                             </div>
                         </div>
                     </div>
