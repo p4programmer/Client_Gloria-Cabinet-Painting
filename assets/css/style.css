@@ -179,11 +179,12 @@ header
 --------------------------------------------- 
 */
 
-.mainF{
-  color:#ff0000;
+.mainF {
+  color: #ff0000;
 }
-.secF{
-  color:#0070c0;
+
+.secF {
+  color: #0070c0;
 }
 
 .header-area {
@@ -2040,7 +2041,7 @@ pages
   position: absolute;
   z-index: 2;
   text-align: left;
-  padding: 30px;
+  padding: 20px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;

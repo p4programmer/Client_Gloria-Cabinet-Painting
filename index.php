@@ -110,18 +110,116 @@ require_once("resource/config.php");
                         <div class="project-list">
                             <div class="row">
 
-                                <div class="col-lg-6 col-md-12 col-sm-12">
+                                <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:-100px">
                                     <a href="project-single.html" class="project-list-item">
                                         <div class="img">
                                             <img src="assets/images/photos/project/1.png" alt="">
                                         </div>
-                                        <div class="text">
-                                            <h3>MODERN KITCHENS</h3>
-                                            <p>Proin luctus odio et purus iaculis, et porta ex molestie. Curabitur
-                                                euismod nulla enim.</p>
+                                        <div class="text" style="height:50%">
+                                            <p>
+                                                Better economical option compared to replacing
+                                            </p>
                                         </div>
                                     </a>
                                 </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:-100px">
+                                    <a href="project-single.html" class="project-list-item">
+                                        <div class="img">
+                                            <img src="assets/images/photos/project/2.png" alt="">
+                                        </div>
+                                        <div class="text" style="height:50%">
+                                            <p>
+                                                Refinishing in just 3 to 5 days <br>
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:-100px">
+                                    <a href="project-single.html" class="project-list-item">
+                                        <div class="img">
+                                            <img src="assets/images/photos/project/3.png" alt="">
+                                        </div>
+                                        <div class="text align-middle" style="height:50%">
+                                            <p>
+                                                No demolition required
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:-100px">
+                                    <a href="project-single.html" class="project-list-item">
+                                        <div class="img">
+                                            <img src="assets/images/photos/project/4.png" alt="">
+                                        </div>
+                                        <div class="text" style="height:50%">
+                                            <p>
+                                                Exceedingly durable
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:-100px">
+                                    <a href="project-single.html" class="project-list-item">
+                                        <div class="img">
+                                            <img src="assets/images/photos/project/5.png" alt="">
+                                        </div>
+                                        <div class="text" style="height:50%">
+                                            <p>
+                                                Factory finish look to cabinets through spray painting
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:-100px">
+                                    <a href="project-single.html" class="project-list-item">
+                                        <div class="img">
+                                            <img src="assets/images/photos/project/6.png" alt="">
+                                        </div>
+                                        <div class="text align-middle" style="height:50%">
+                                            <p>
+                                                Wide variety of color choices
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:-100px">
+                                    <a href="project-single.html" class="project-list-item">
+                                        <div class="img">
+                                            <img src="assets/images/photos/project/7.png" alt="">
+                                        </div>
+                                        <div class="text align-middle" style="height:50%">
+                                            <p>
+                                                No emission of dangerous vapour
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:-100px">
+                                    <a href="project-single.html" class="project-list-item">
+                                        <div class="img">
+                                            <img src="assets/images/photos/project/8.png" alt="">
+                                        </div>
+                                        <div class="text align-middle" style="height:50%">
+                                            <p>
+                                                High-quality low VOC lacquer (waterborne) materials are eco-friendly
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:-100px">
+                                    <a href="project-single.html" class="project-list-item">
+                                        <div class="img">
+                                            <img src="assets/images/photos/project/9.png" alt="">
+                                        </div>
+                                        <div class="text align-middle" style="height:50%">
+                                            <p>
+                                                Process is highly sustainable since it reduces tons of wastes
+                                            </p>
+                                        </div>
+                                    </a>
+                                </div>
+
+
 
                             </div>
                         </div>
