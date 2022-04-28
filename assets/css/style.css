@@ -1000,6 +1000,10 @@ blockquote .author {
   margin-bottom: 0px !important;
 }
 
+.margin-bottom-5 {
+  margin-bottom: 5px !important;
+}
+
 .margin-bottom-10 {
   margin-bottom: 10px !important;
 }
@@ -1050,6 +1054,10 @@ blockquote .author {
 
 .margin-top-60 {
   margin-top: 60px !important;
+}
+
+.margin-top-90 {
+  margin-top: 90px !important;
 }
 
 .padding-top-0 {
@@ -1939,8 +1947,8 @@ pages
 }
 
 .page .page-bottom {
-  padding-top: 120px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.88px;
