@@ -25,6 +25,13 @@ require_once("resource/config.php");
             </div>
         </div>
     </section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <img src="assets/images/process.png" class="img-fluid" alt="Responsive image">
+            </div>
+        </div>
+    </div>
 
 
     <?php include(TEMPLATE_FRONT . DS . "footer.php"); ?>
