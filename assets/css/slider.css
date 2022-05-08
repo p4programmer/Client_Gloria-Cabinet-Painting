@@ -1,0 +1,99 @@
+*,
+*:before,
+*:after {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+#loader {
+    width: 330px;
+    height: 330px;
+    background-color: #ffffff;
+    position: absolute;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    -webkit-box-shadow: 0 10px 30px rgba(50, 50, 50, 0.2);
+    box-shadow: 0 10px 30px rgba(50, 50, 50, 0.2);
+    border-radius: 8px;
+    display: -ms-grid;
+    display: grid;
+    place-items: center;
+}
+
+#loader:after {
+    content: "";
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border: 20px solid #c5c5c5;
+    border-top-color: #202020;
+    border-radius: 50%;
+    -webkit-animation: spin 1.5s infinite;
+    animation: spin 1.5s infinite;
+}
+
+@-webkit-keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+#wrapper {
+    width: 95vmin;
+    display: none;
+}
+
+.slide-container {
+    width: 95vmin;
+    height: 67.5vmin;
+    position: relative;
+    overflow: hidden;
+    background-color: white;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#img-1 {
+    -webkit-clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%);
+    clip-path: polygon(0 0, 50% 0, 50% 100%, 0 100%);
+}
+
+#slider {
+    -webkit-appearance: none;
+    width: calc(100% + 40px);
+    height: 100%;
+    position: relative;
+    margin-left: -20px;
+    outline: none;
+    background-color: transparent;
+}
+
+#slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    border-radius: 50%;
+    background: url(https://svgshare.com/i/Xxz.svg),
+        rgba(255, 255, 255, 0.3);
+    background-size: contain;
+    border: 3px solid #ffffff;
+}

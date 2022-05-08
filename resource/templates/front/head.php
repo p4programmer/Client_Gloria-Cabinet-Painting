@@ -24,5 +24,6 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!-- Custom CSS -->
+    <!-- <link href="assets/css/slider.css" rel="stylesheet" type="text/css"> -->
     <link href="assets/css/style.css" rel="stylesheet" type="text/css">
 </head>
