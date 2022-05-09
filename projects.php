@@ -31,7 +31,8 @@ require_once("resource/config.php");
 
 <!-- Custom CSS -->
 <link href="assets/css/style.css" rel="stylesheet" type="text/css">
-<link href="assets/css/slider.css" rel="stylesheet" type="text/css">
+<link href="assets/css/foundation.css" rel="stylesheet" type="text/css" />
+<link href="assets/css/twentytwenty.css" rel="stylesheet" type="text/css" />
 
 <body>
 
@@ -52,16 +53,46 @@ require_once("resource/config.php");
         </div>
     </section>
 
-    <div id="loader"></div>
-    <div class="container">
-        <div class="row">
+
+    <div class="container mt-5 d-flex justify-content-center">
+        <div class="row slide-row">
             <div class="col-lg-12">
-                <div id="wrapper">
-                    <div class="slide-container">
-                        <img src="https://webdevtrick.com/wp-content/uploads/skynature.jpg">
-                        <img id="img-1" src="https://i.ibb.co/cX9998K/shoe2.jpg">
-                        <input type="range" min="0" max="100" value="50" step="0.1" oninput="slide()" id="slider">
-                    </div>
+                <div class="twentytwenty-container">
+                    <img src="assets/images/a1.jpg" />
+                    <img src="assets/images/a2.jpg" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5">
+        <div class="row slide-row">
+            <div class="col-lg-12">
+                <div class="twentytwenty-container">
+                    <img src="assets/images/b1.jpg" />
+                    <img src="assets/images/b2.jpg" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5">
+        <div class="row slide-row">
+            <div class="col-lg-12">
+                <div class="twentytwenty-container">
+                    <img src="assets/images/c1.jpg" />
+                    <img src="assets/images/c2.jpg" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5 mb-5">
+        <div class="row slide-row">
+            <div class="col-lg-12">
+                <div class="twentytwenty-container">
+                    <img src="assets/images/d1.jpg" />
+                    <img src="assets/images/d2.jpg" />
                 </div>
             </div>
         </div>
@@ -69,7 +100,21 @@ require_once("resource/config.php");
 
 
     <?php include(TEMPLATE_FRONT . DS . "footer.php"); ?>
-
+    <script src="https://code.jquery.com/jquery-3.2.1.js"
+        integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+    <script src="assets/js/jquery.event.move.js"></script>
+    <script src="assets/js/jquery.twentytwenty.js"></script>
+    <script>
+    $(function() {
+        $(".twentytwenty-container[data-orientation!='vertical']").twentytwenty({
+            default_offset_pct: 0.7
+        });
+        $(".twentytwenty-container[data-orientation='vertical']").twentytwenty({
+            default_offset_pct: 0.3,
+            orientation: 'vertical'
+        });
+    });
+    </script>
 </body>
 
 </html>

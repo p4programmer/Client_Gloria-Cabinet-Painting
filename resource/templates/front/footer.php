@@ -73,4 +73,3 @@
 
 	<!-- Global Init -->
 	<script src="assets/js/custom.js"></script>
-	<script src="assets/js/slider.js"></script>
