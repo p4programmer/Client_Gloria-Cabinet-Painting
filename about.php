@@ -37,11 +37,9 @@ require_once("resource/config.php");
                         <p class="dark">We are a locally owned and operated company, majorly offering our services
                             around the lower mainland and adjacent areas. Our team of craftsmen and finishers provide
                             quality workmanship and finishes catering to the demands of each client at an outstanding
-                            value. Having ample experience in successfully completing customized painting and cabinet
-                            refinishing works in more than 100’s of kitchens comprising of oak, wood, MDF, laminate,
-                            thermofoil, melamine etc.</p>
-                        <p class="margin-bottom-40">Experienced in painting (refinishing) more than 100’s of kitchen
-                            including oak, wood, MDF, laminate, thermofoil, melamine etc</p>
+                            value. We have successfully completed customized kitchen cabinet painting (refinishing) in
+                            more than 100’s of kitchens comprising of oak, wood, MDF, laminate, thermofoil, melamine
+                            etc. </p>
                     </div>
                 </div>
                 <div class="offset-lg-1 col-lg-6 col-md-12 col-sm-12 align-self-center"
@@ -52,7 +50,7 @@ require_once("resource/config.php");
         </div>
     </section>
 
-    <section class="half-parallax margin-top-40">
+    <section class="half-parallax margin-top-40 padding-bottom-20">
         <div class="parallax-items">
             <div class="container">
                 <div class="row d-flex justify-content-around">
@@ -61,7 +59,8 @@ require_once("resource/config.php");
                             <i class="fas fa-bullseye" style="color:red;"></i>
                             <h5 class="feature-title">MISSION</h5>
                             <p>
-                                Make our customers happy through economical, societal, and environmental ways.
+                                Complete customer satisfaction through a wide range of quality services that fosters
+                                sustainability.
                             </p>
                         </div>
                     </div>
@@ -70,8 +69,8 @@ require_once("resource/config.php");
                             <i class="fa-regular fa-thumbs-up" style="color:red;"></i>
                             <h5 class="feature-title">RELIABILITY </h5>
                             <p>
-                                Friendly, professional, and respectful employees with the goal of completing the job
-                                within the timeframe. Will consider the area as our own home.
+                                Friendly and respectful employees efficaciously complete the undertaken tasks within the
+                                stipulated timeframe.
                                 <br>
                             </p>
                         </div>
@@ -81,8 +80,7 @@ require_once("resource/config.php");
                             <i class="fa-regular fa-star" style="color:red;"></i>
                             <h5 class="feature-title">QUALITY </h5>
                             <p>
-                                Highest quality within the time frame provided. We don’t get out until our customers are
-                                happy.
+                                Assured works that will surpass the quality standards of our customers.
                             </p>
                         </div>
                     </div>
@@ -91,7 +89,8 @@ require_once("resource/config.php");
                             <i class="fa-solid fa-calendar-check" style="color:red;"></i>
                             <h5 class="feature-title">SCHEDULE</h5>
                             <p>
-                                Always show upon time. We respect everyone’s time and stick to the project schedule
+                                Since we value everyone’s time, we are always punctual to reach the site and adhere to
+                                the project schedule.
                             </p>
                         </div>
                     </div>
@@ -100,7 +99,8 @@ require_once("resource/config.php");
                             <i class="fa-solid fa-hand-holding-dollar" style="color:red;"></i>
                             <h5 class="feature-title">COST </h5>
                             <p>
-                                Competitive price within the market although using the highest eco-friendly products.
+                                Competitive price within the market by utilising sustainable and eco-friendly products
+                                of the highest quality.
                             </p>
                         </div>
                     </div>
@@ -110,17 +110,7 @@ require_once("resource/config.php");
                             <h5 class="feature-title ">TIDINESS </h5>
                             <p>
                                 We ensure that the worksite is clean by carrying out professional cleaning once the job
-                                is completed
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <div class="parallax-item" style="height:90%">
-                            <i class="fa-solid fa-recycle" style="color:red;"></i>
-                            <h5 class="feature-title">SUSTAINABILITY </h5>
-                            <p>
-                                By saving tons of waste going back to our mother nature thus mutually helping the
-                                economy, society, and the environment.
+                                is completed.
                             </p>
                         </div>
                     </div>
@@ -129,7 +119,7 @@ require_once("resource/config.php");
                             <i class="fa-solid fa-file-circle-check" style="color:red;"></i>
                             <h5 class="feature-title">FREE ESTIMATES </h5>
                             <p>
-                                We provide free estimates to clients upon request
+                                We provide free estimates within 48hours.
                             </p>
                         </div>
                     </div>
@@ -138,7 +128,7 @@ require_once("resource/config.php");
                             <i class="fa-solid fa-award" style="color:red;"></i>
                             <h5 class="feature-title">LICENSE & INSURANCE</h5>
                             <p>
-                                Being licensed and insured.
+                                We are fully insured and licensed.
                             </p>
                         </div>
                     </div>
@@ -147,8 +137,8 @@ require_once("resource/config.php");
                             <i class="fa-solid fa-certificate" style="color:red;"></i>
                             <h5 class="feature-title">WARRANTY</h5>
                             <p>
-                                Providing 2-year warranty for the cabinet painting workmanship and 5 year no peel
-                                warranty for the paint
+                                2 year warranty for the cabinet painting workmanship and 5 year no peel warranty for the
+                                applied paint.
                             </p>
                         </div>
                     </div>

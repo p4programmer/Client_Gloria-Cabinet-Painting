@@ -34,7 +34,7 @@ require_once("resource/config.php");
                                 <div class="col-lg-12 col-md-12 col-sm-12 align-self-center">
                                     <h3 class="margin-bottom-20">Kitchen Cabinet Painting </h3>
                                     <div class="margin-bottom-20">
-                                        <img src="assets/images/painting.jpg" class="img-fluid " alt="" />
+                                        <img src="assets/images/e2.jpg" class="img-fluid " alt="" />
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 align-self-center">
@@ -60,7 +60,7 @@ require_once("resource/config.php");
                                 <div class="col-lg-12 col-md-12 col-sm-12 align-self-center">
                                     <h3 class="margin-bottom-20">Bathrooms & Laundry Cabinet Painting</h3>
                                     <div class="margin-bottom-20">
-                                        <img src="assets/images/bathpaint.jpg" class="img-fluid " alt="" />
+                                        <img src="assets/images/laundry.jpg" class="img-fluid " alt="" />
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 align-self-center">
@@ -87,7 +87,7 @@ require_once("resource/config.php");
                                 <div class="col-lg-12 col-md-12 col-sm-12 align-self-center">
                                     <h3 class="margin-bottom-20">Custom cabinet & shelving painting</h3>
                                     <div class="margin-bottom-20">
-                                        <img src="assets/images/painting2.jpg" class="img-fluid " alt="" />
+                                        <img src="assets/images/custom-cabinets.jpg" class="img-fluid " alt="" />
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 align-self-center">
@@ -168,7 +168,7 @@ require_once("resource/config.php");
                                 <div class="col-lg-12 col-md-12 col-sm-12 align-self-center">
                                     <h3 class="margin-bottom-20">Back Splash</h3>
                                     <div class="margin-bottom-20">
-                                        <img src="assets/images/counter.jpg" class="img-fluid " alt="" />
+                                        <img src="assets/images/counter-splash.jpg" class="img-fluid " alt="" />
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-12 col-sm-12 align-self-center">
