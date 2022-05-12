@@ -35,10 +35,10 @@ require_once("resource/config.php");
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <h5 class="margin-bottom-30">Get in touch</h5>
                         <div class="contact-text">
-                            <p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                                Etiam tempus magna vel turpis.</p>
-                            <p>Sed blandit tempus purus, sed sodales leo rutrum vel. Nam vulputate ipsum ac est congue,
-                                eget commodo magna lobortis.</p>
+                            <p>Use the form below to request a free quote for your cabinet painting project. If you have
+                                any questions or comments, please contact us and we will get back to you within 24
+                                hours.
+                            </p>
                         </div>
                     </div>
                     <!-- ***** Contact Text End ***** -->
@@ -47,17 +47,25 @@ require_once("resource/config.php");
                     <div class="col-lg-8 col-md-6 col-sm-12">
                         <div class="contact-form">
                             <div class="row">
-                                <form>
+                                <form id="ajax-form" name="ajax-form" action="mailer.php" method="post">
                                     <div class="row">
                                         <div class="col-lg-6 col-md-12 col-sm-12">
-                                            <input type="text" placeholder="Name, surname">
+                                            <input type="text" name="name" placeholder="Name:">
                                         </div>
                                         <div class="col-lg-6 col-md-12 col-sm-12">
-                                            <input type="text" placeholder="E-Mail">
+                                            <input type="tel" name="phone" placeholder="Phone Number">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-12 col-sm-12">
+                                            <input type="mail" name="email" placeholder="E-Mail:">
+                                        </div>
+                                        <div class="col-lg-6 col-md-12 col-sm-12">
+                                            <input type="text" name="address" placeholder="Address">
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <textarea placeholder="Your message"></textarea>
+                                        <textarea name="message" placeholder="Your message"></textarea>
                                     </div>
                                     <div class="col-lg-12">
                                         <button class="dark-btn float-right" type="submit">
