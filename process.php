@@ -27,7 +27,7 @@ require_once("resource/config.php");
     </section>
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
+            <div class="col-lg-12 margin-top-90 padding-bottom-120 d-flex justify-content-center">
                 <img src="assets/images/process.png" class="img-fluid" alt="Responsive image">
             </div>
         </div>
