@@ -5,7 +5,7 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.php" class="logo - Gloria Cabinet Painting">
-                        <img src="assets/images/logo.png" alt="Gloria Cabinet Painting" />
+                        <img src="assets/images/logo3.png" alt="Gloria Cabinet Painting" />
                     </a>
                     <!-- ***** Logo End ***** -->
 

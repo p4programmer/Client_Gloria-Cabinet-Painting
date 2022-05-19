@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gloria Cabinet Painting</title>
+    <title>Gloria Cabinet Painting in lower mainland</title>
     <meta name="description"
         content="We are a locally owned and operated company, majorly offering our services around the lower mainland and adjacent areas.Having ample experience in successfully completing customized painting and cabinet refinishing works in more than 100’s of kitchens comprising of oak, wood, MDF, laminate, thermofoil, melamine etc." />
     <meta name="keywords"
