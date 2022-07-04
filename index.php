@@ -17,9 +17,9 @@ require_once("resource/config.php");
                 <div class="container">
                     <div class="row">
                         <div class="offset-lg-3 col-lg-6">
-                            <h1 class="text-dark"><b>Gloria Cabinet Painting</b>
+                            <!-- <h1 class="text-dark"><b>Gloria Cabinet Painting</b>
                             </h1>
-                            <p>- Dreams come true with us -</p>
+                            <p>- Dreams come true with us -</p> -->
                         </div>
                     </div>
                 </div>
