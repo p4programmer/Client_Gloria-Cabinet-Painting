@@ -39,12 +39,12 @@ require_once("resource/config.php");
     <?php include(TEMPLATE_FRONT . DS . "header.php"); ?>
 
     <section class="page">
-        <div class="cover" data-image="assets/images/services-banner.jpg">
+        <div class="cover" data-image="assets/images/projects-banner.jpg">
             <div class="cover-top">
                 <div class="container">
                     <div class="row">
                         <div class="offset-lg-3 col-lg-6">
-                            <h1 class="text-dark"><b>Pur Projects
+                            <h1 class="text-dark"><b style="color:#ffffff;">Our Projects
                             </h1>
                         </div>
                     </div>
@@ -98,6 +98,60 @@ require_once("resource/config.php");
         </div>
     </div>
 
+    <div class="container mt-5 mb-5">
+        <div class="row slide-row">
+            <div class="col-lg-12">
+                <div class="twentytwenty-container">
+                    <img src="assets/images/f1.jpg" />
+                    <img src="assets/images/f2.jpg" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5 mb-5">
+        <div class="row slide-row">
+            <div class="col-lg-12">
+                <div class="twentytwenty-container">
+                    <img src="assets/images/g1.jpg" />
+                    <img src="assets/images/g2.jpg" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5 mb-5">
+        <div class="row slide-row">
+            <div class="col-lg-12">
+                <div class="twentytwenty-container">
+                    <img src="assets/images/h1.jpg" />
+                    <img src="assets/images/h2.jpg" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5 mb-5">
+        <div class="row slide-row">
+            <div class="col-lg-12">
+                <div class="twentytwenty-container">
+                    <img src="assets/images/i1.jpg" />
+                    <img src="assets/images/i2.jpg" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5 mb-5">
+        <div class="row slide-row">
+            <div class="col-lg-12">
+                <div class="twentytwenty-container">
+                    <img src="assets/images/j1.jpg" />
+                    <img src="assets/images/j2.jpg" />
+                </div>
+            </div>
+        </div>
+    </div>
 
     <?php include(TEMPLATE_FRONT . DS . "footer.php"); ?>
     <script src="https://code.jquery.com/jquery-3.2.1.js"

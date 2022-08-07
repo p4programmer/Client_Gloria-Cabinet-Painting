@@ -1,5 +1,5 @@
 <header class="header-area">
-    <div class="container">
+    <div class="container" style="display: block">
         <div class="row">
             <div class="col-12">
                 <nav class="main-nav">

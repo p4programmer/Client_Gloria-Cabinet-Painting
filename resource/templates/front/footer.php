@@ -5,15 +5,15 @@
 	            <div class="col-lg-4 col-md-12 col-sm-12">
 	                <div class="text">
 	                    <b>Gloria Cabinet Painting</b><br />
-	                    - Dreams come true with us
+	                    Dreams come true with us
 	                </div>
-	                <ul class="social">
+	                <!-- <ul class="social">
 	                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
 	                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
 	                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 	                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
 	                    <li><a href="#"><i class="fa fa-github"></i></a></li>
-	                </ul>
+	                </ul> -->
 	            </div>
 	            <div class="col-lg-4 col-md-4 col-sm-6 col-6">
 	                <h5>Helpful Links</h5>
@@ -38,8 +38,8 @@
 	            <div class="col-lg-4 col-md-6 col-sm-12">
 	                <h5>Contact Us</h5>
 	                <div class="address">
-	                    <p>455 West Orchard Street<br>Kings Mountain, NC 28086</p>
-	                    <p>Phone: (236) 688-4321</p>
+	                    <p>Delta, BC</p>
+	                    <p>Phone: +1-778-222-1996</p>
 	                    <p><span>E-Mail: </span><a href="#">info@gloriacabinetpainting.ca</a></p>
 	                </div>
 	            </div>

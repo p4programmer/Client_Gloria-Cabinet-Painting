@@ -9,6 +9,7 @@ require_once("resource/config.php");
 
 <body>
 
+
     <?php include(TEMPLATE_FRONT . DS . "header.php"); ?>
 
     <section class="page">
@@ -45,13 +46,8 @@ require_once("resource/config.php");
                             to providing our customers with unrivalled craftsmanship and service quality is the
                             foundation of our success. We offer a low-cost alternative for wood refinishing to
                             homeowners.</p>
-                        <ul class="margin-bottom-40">
-                            <li>Kitchen Cabinet Painting </li>
-                            <li>Bathroom and Laundry Cabinet Painting</li>
-                            <li>Custom Cabinets and Shelving Painting</li>
-                            <li>New Hardware</li>
-                            <li>New Countertops</li>
-                            <li>New Backsplashes</li>
+                        <ul class="margin-bottom-10">
+                            <li><a href='services.php'>Our Services</a></li>
                         </ul>
                     </div>
                 </div>
@@ -67,7 +63,7 @@ require_once("resource/config.php");
                     <div class="col-lg-12">
                         <div class="project-list">
                             <div class="row">
-
+                                <h3 class="">Advantages </h3>
                                 <div class="col-lg-4 col-md-6 col-sm-12" style="margin-bottom:-100px">
                                     <a href="#" class="project-list-item">
                                         <div class="img">

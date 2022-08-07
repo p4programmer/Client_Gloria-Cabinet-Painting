@@ -12,12 +12,12 @@ require_once("resource/config.php");
     <?php include(TEMPLATE_FRONT . DS . "header.php"); ?>
 
     <section class="page">
-        <div class="cover" data-image="assets/images/about-banner.jpg">
+        <div class="cover" data-image="assets/images/contact-banner.jpg">
             <div class="cover-top">
                 <div class="container">
                     <div class="row">
                         <div class="offset-lg-3 col-lg-6">
-                            <h1 class="text-dark"><b>Contact Us
+                            <h1 class="text-dark"><b>
                             </h1>
                         </div>
                     </div>
@@ -92,7 +92,7 @@ require_once("resource/config.php");
                                     <div class="icon">
                                         <i class="fa fa-location-arrow"></i>
                                     </div>
-                                    <p>455 West Orchard Street Kings <br>Mountain, NC 28086</p>
+                                    <p>Delta, BC</p>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12">
@@ -100,7 +100,7 @@ require_once("resource/config.php");
                                     <div class="icon">
                                         <i class="fa fa-phone"></i>
                                     </div>
-                                    <a href="tel:(236)688-4321">(236) 688-4321</a><br>
+                                    <a href="tel:(236)688-4321">+1-778-222-1996</a><br>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12">

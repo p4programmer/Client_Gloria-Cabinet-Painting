@@ -157,6 +157,7 @@ body {
 
 a {
   text-decoration: none !important;
+  color: #0070c0
 }
 
 h1,
@@ -1745,7 +1746,7 @@ footer
 --------------------------------------------- 
 */
 footer {
-  background: #1F2128;
+  background: #0070c0;
   padding-top: 70px;
 }
 
@@ -1756,7 +1757,7 @@ footer img.logo {
 footer .text {
   font-weight: 400;
   font-size: 14px;
-  color: #D8D8D8;
+  color: #ffffff;
   line-height: 30px;
   letter-spacing: 0.88px;
 }
@@ -1808,8 +1809,8 @@ footer .footer-nav li a span {
   height: 32px;
   line-height: 32px;
   font-weight: 400;
-  font-size: 14px;
-  color: #D8D8D8;
+  font-size: 16px;
+  color: #ffffff;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -1828,18 +1829,18 @@ footer .address p {
 }
 
 footer .address p a {
-  color: #D8D8D8;
+  color: #ffffff;
 }
 
 footer .copyright {
   text-align: center;
-  border-top: 1px solid #343641;
+  border-top: 1px solid #000000;
   margin-top: 30px;
   padding-top: 30px;
   padding-bottom: 30px;
   font-weight: 400;
   font-size: 14px;
-  color: #D8D8D8;
+  color: #000000;
   letter-spacing: 0.88px;
 }
 
@@ -2054,7 +2055,9 @@ pages
 
 .page .page-bottom .project-list .project-list-item .text {
   background: #fff;
-  box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
+  /* box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08); */
+  border-radius: 25px;
+  border: 2px solid #0070c0;
   width: 70%;
   right: 0px;
   position: absolute;

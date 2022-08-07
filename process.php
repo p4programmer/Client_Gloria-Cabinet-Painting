@@ -12,7 +12,7 @@ require_once("resource/config.php");
     <?php include(TEMPLATE_FRONT . DS . "header.php"); ?>
 
     <section class="page">
-        <div class="cover" data-image="assets/images/services-banner.jpg">
+        <div class="cover" data-image="assets/images/process-banner.jpg">
             <div class="cover-top">
                 <div class="container">
                     <div class="row">
